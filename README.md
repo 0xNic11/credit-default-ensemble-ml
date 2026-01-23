@@ -105,4 +105,4 @@ credit-default-ensemble-ml/
 
 ## 👤 Author
 **Abdullah Ashraf**  
-Machine Learning Engineer (Portfolio Project)
+Machine Learning Engineer 
